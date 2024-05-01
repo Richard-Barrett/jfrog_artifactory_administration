@@ -2,6 +2,8 @@
 
 Python Scripts for JFrog Artifactory Administration and Data Tasks
 
+- [Scripts](https://github.com/Richard-Barrett/jfrog_artifactory_administration/tree/main/scripts) - The directory to hold one-off python scripts for interacting with Artifactory.
+
 ## Overview
 
 This repository is dedicated to helping users pull out data and/or run administrative tasks to JFrog Artifactory.
