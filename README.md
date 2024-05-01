@@ -31,7 +31,10 @@ SPECIAL NOTE: `"https://<YOUR_SERVER_FQDN>/artifactory/api/security/users"` seem
 
 ```bash
 python3 scripts/get_users_list.py
+python3 scripts/get_users_details.py
 ```
+
+After running the scripts, it will produce and write out to a `.csv` file in your local directory.
 
 ## Limitations
 
